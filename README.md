@@ -1,8 +1,8 @@
 # Arduino Beginner Projects 🔌
 
-A collection of beginner-friendly Arduino projects with fully commented code — built as part of my electronics learning journey and teaching materials for [AIR Camp](https://github.com/), a free peer-led robotics program for kids ages 6–14.
+Fully commented Arduino sketches from my **Road to Electronics** series — documenting my journey learning electronics from the ground up, one project at a time.
 
-Every sketch is heavily commented so you can learn *why* each line exists, not just what it does.
+Every sketch is heavily commented so you can learn *why* each line exists, not just what it does. Follow along on Instagram: **@electroniclearns**
 
 ## 📁 Projects
 
@@ -12,7 +12,7 @@ Every sketch is heavily commented so you can learn *why* each line exists, not j
 | 02 | [Pushbutton Toggle](02-pushbutton-toggle/) | `digitalRead`, `INPUT_PULLUP`, `if/else`, modulo `%` |
 | 03 | [Ultrasonic Traffic Light](03-ultrasonic-traffic-light/) | HC-SR04 sensor, `pulseIn`, distance math, `if/else if` chains |
 
-Each project folder has its own README with a parts list, wiring guide, and how-it-works explanation.
+Each project folder has its own README with a parts list, wiring guide, and how-it-works explanation. New projects get added as the series continues.
 
 ## 🛠️ What You Need to Get Started
 
@@ -32,7 +32,7 @@ Individual parts for each project are listed in that project's README.
 
 ## 🎓 Learning Path
 
-The projects are numbered in recommended order — each one builds on concepts from the last:
+The projects are numbered in the order I built them — each one builds on concepts from the last:
 
 1. **Blink** teaches you outputs and timing
 2. **Pushbutton** adds inputs and decision-making
@@ -40,8 +40,8 @@ The projects are numbered in recommended order — each one builds on concepts f
 
 ## 📄 License
 
-MIT — use, remix, and teach with these freely. See [LICENSE](LICENSE).
+MIT — use, remix, and learn from these freely. See [LICENSE](LICENSE).
 
 ---
 
-*Built by Aya S.T. · Follow the journey: @electroniclearns*
+*Built by Ayagreeiv Shanmugasundaram Tamilselvi · Road to Electronics · @electroniclearns*
