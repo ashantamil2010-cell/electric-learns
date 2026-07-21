@@ -177,4 +177,4 @@ Two upgrades once the basic version works:
 
 ---
 
-*Built by Aya S.T. · Road to Electronics · [@electroniclearns](https://instagram.com/electroniclearns)*
+*Built by Ayagreeiv S.T. · Road to Electronics · [@electroniclearns](https://instagram.com/electroniclearns)*
