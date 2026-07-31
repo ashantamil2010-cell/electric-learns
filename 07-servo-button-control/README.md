@@ -207,4 +207,4 @@ Push the current angle to the servo, then wait 10 ms. That delay sets the **spee
 
 ---
 
-*Built by Aya S.T. · Road to Electronics · [@electroniclearns](https://instagram.com/electroniclearns)*
+*Built by Ayagreeiv S.T. · Road to Electronics · [@electroniclearns](https://instagram.com/electroniclearns)*
