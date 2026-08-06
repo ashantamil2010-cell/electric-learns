@@ -209,4 +209,4 @@ Reads LOW when the stick is clicked in (same `INPUT_PULLUP` logic as Day 7), the
 
 ---
 
-*Built by Aya S.T. · Road to Electronics · [@electroniclearns](https://instagram.com/electroniclearns)*
+*Built by Ayagreeiv S.T. · Road to Electronics · [@electroniclearns](https://instagram.com/electroniclearns)*
